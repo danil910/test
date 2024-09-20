@@ -1,0 +1,62 @@
+{
+    "status": "Healthy",
+    "totalDuration": "00:00:00.0010775",
+    "entries": {
+        "mobile_integration_api_container": {
+            "data": {},
+            "duration": "00:00:00.0010337",
+            "status": "Healthy",
+            "tags": [
+                "db"
+            ]
+        },
+        "dms_integration_api_container": {
+            "data": {},
+            "duration": "00:00:00.0006280",
+            "status": "Healthy",
+            "tags": [
+                "db"
+            ]
+        },
+        "email_integration_api_container": {
+            "data": {},
+            "duration": "00:00:00.0005786",
+            "status": "Healthy",
+            "tags": [
+                "db"
+            ]
+        },
+        "temporary_scc_source_api_container": {
+            "data": {},
+            "duration": "00:00:00.0008738",
+            "status": "Healthy",
+            "tags": [
+                "db"
+            ]
+        },
+        "scc_legal_entity_api_container": {
+            "data": {},
+            "duration": "00:00:00.0006134",
+            "status": "Healthy",
+            "tags": [
+                "db"
+            ]
+        },
+        "standartization_container": {
+            "data": {},
+            "duration": "00:00:00.0006145",
+            "status": "Healthy",
+            "tags": [
+                "db"
+            ]
+        },
+        "slice_formation_service": {
+            "data": {},
+            "duration": "00:00:00.0007234",
+            "status": "Healthy",
+            "tags": [
+                "db"
+            ]
+        }
+    }
+}
