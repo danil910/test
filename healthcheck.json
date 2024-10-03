@@ -13,7 +13,7 @@
         "dms_integration_api_container": {
             "data": {},
             "duration": "00:00:00.0006280",
-            "status": "Healthy1",
+            "status": "Healthy",
             "tags": [
                 "db"
             ]
