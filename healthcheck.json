@@ -1,5 +1,5 @@
 {
-    "status": "1Healthy",
+    "status": "Healthy",
     "totalDuration": "00:00:00.0010775",
     "entries": {
         "mobile_integration_api_container": {
@@ -13,7 +13,7 @@
         "dms_integration_api_container": {
             "data": {},
             "duration": "00:00:00.0006280",
-            "status": "2Healthy",
+            "status": "Healthy",
             "tags": [
                 "db"
             ]
