@@ -5,7 +5,7 @@
         "mobile_integration_api_container": {
             "data": {},
             "duration": "00:00:00.0010337",
-            "status": "2Healthy",
+            "status": "Healthy",
             "tags": [
                 "db"
             ]
@@ -13,7 +13,7 @@
         "dms_integration_api_container": {
             "data": {},
             "duration": "00:00:00.0006280",
-            "status": "Healthy",
+            "status": "2Healthy",
             "tags": [
                 "db"
             ]
