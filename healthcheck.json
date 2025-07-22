@@ -1,1 +1,1 @@
-[{artifactId:fnr-library,groupId:ru,version:1.9.9,repository_name:nexus},{artifactId:calculation-executor,groupId:ru,version:2.9.9,repository_name:nexus}]
+{artifactId:fnr-library,groupId:ru,version:1.9.9,repository_name:nexus},{artifactId:calculation-executor,groupId:ru,version:2.9.9,repository_name:nexus}
